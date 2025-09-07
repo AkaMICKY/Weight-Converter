@@ -6,7 +6,7 @@ It’s a small but practical project to practice basic input, conversion, and ou
 
 ## 🛠️ Installation  
 1. Clone the repository:  
-   `https://github.com/AkaMICKY/Weight-Converter.git`  
+   `git clone https://github.com/AkaMICKY/Weight-Converter.git`  
 2. Open it in your favorite IDE (e.g., Visual Studio).  
 3. Run the program. 🚀  
 
