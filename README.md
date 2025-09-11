@@ -1,8 +1,8 @@
-// 🏋️ Weight Converter
-// --------------------------------------------------
-// 📌 Description
-// A simple C# console app to convert between common weight units.
-// Supports kilograms, pounds, grams, and ounces with accurate conversion factors.
+ 🏋️ Weight Converter
+ --------------------------------------------------
+ 📌 Description
+A simple C# console app to convert between common weight units.
+ Supports kilograms, pounds, grams, and ounces with accurate conversion factors.
 //
 // ✅ Features
 // - 🔄 Convert Kilograms ⇄ Pounds
