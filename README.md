@@ -18,17 +18,21 @@ It validates inputs, ensures correct numerical values, and rounds results to two
 **Example 1 – Convert Kilograms to Pounds**  
 Hello, Welcome To Weight Converter
 Select An Option
-1.Kilograms(Kg) ==> Pounds(Lbs)
-2.Pounds(Lbs) ==> Kilograms(Kg)
-3.Grams(G) ==> Ounces(Oz)
-4.Ounces(Oz) ==> Grams(G)
+- 1.Kilograms(Kg) ==> Pounds(Lbs)
+- 2.Pounds(Lbs) ==> Kilograms(Kg)
+- 3.Grams(G) ==> Ounces(Oz)
+- 4.Ounces(Oz) ==> Grams(G)
 --Option: 1
+  
 Enter Weight in Kilogram(Kg): 50
+
 50 Kilograms(Kg) is 110.23 Pounds(Lbs)
 
 **Example 2 – Convert Ounces to Grams**  
 -Option: 4
+
 Enter Weight in Ounces(Oz): 10
+
 10 Ounces(Oz) is 283.50 Grams(G)
 
 ## 🛠️ Classification / Features  
@@ -44,7 +48,9 @@ Enter Weight in Ounces(Oz): 10
 ## 🔮 Future Improvements  
 - Add **Stones ⇄ Kilograms** conversion 🪨  
 - Add **Milligrams ⇄ Grams** conversion 💊  
-- Allow multiple conversions in one run (loop until exit) 🔁  
+- Allow multiple conversions in one run (loop until exit) 🔁
+- Support Batch Conversions(Convert multiple Values at Once)
+- Show Fun Facts After Conversion
 - GUI version with dropdowns and real-time conversion 🖥️  
 
 ## 👨‍💻 Author  
